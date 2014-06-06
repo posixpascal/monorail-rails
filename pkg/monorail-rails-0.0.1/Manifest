@@ -1,7 +1,0 @@
-README.rdoc
-Rakefile
-lib/monorail-rails/HTTP.rb
-lib/monorail-rails/SSH.rb
-lib/monorail-rails/database.rb
-lib/monorail.rb
-Manifest
